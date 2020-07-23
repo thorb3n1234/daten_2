@@ -1,0 +1,6 @@
+../daten/ML_DATA/bottom/test/20200703_105103.mp4_frame_1740.jpg
+../daten/ML_DATA/bottom/test/VID_8_7__1.mp4_frame_600.jpg
+../daten/ML_DATA/bottom/test/VID_8_7__3.mp4_frame_270.jpg
+../daten/ML_DATA/bottom/test/VID_8_7__1.mp4_frame_615.jpg
+../daten/ML_DATA/bottom/test/VID_8_7__2.mp4_frame_780.jpg
+../daten/ML_DATA/bottom/test/20200701_160840.mp4_frame_330.jpg

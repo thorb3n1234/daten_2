@@ -1,0 +1,5 @@
+classes = 1
+train = ../daten/ML_DATA/custom_files/train_bottom.txt
+valid = ../daten/ML_DATA/custom_files/test_bottom.txt
+names = ../daten/ML_DATA/custom_files/obj_bottom.names
+backup = backup
