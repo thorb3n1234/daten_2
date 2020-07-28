@@ -1,4 +1,4 @@
-classes = 2
+classes = 3
 train = ../daten_2/ML_DATA/custom_files/train.txt
 valid = ../daten_2/ML_DATA/custom_files/test.txt
 names = ../daten_2/ML_DATA/custom_files/obj.names
